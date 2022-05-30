@@ -1,0 +1,14 @@
+C:\Users\BAKU\source\repos\firstoneee\firstoneee\bin\Debug\netcoreapp3.1\firstoneee.exe
+C:\Users\BAKU\source\repos\firstoneee\firstoneee\bin\Debug\netcoreapp3.1\firstoneee.deps.json
+C:\Users\BAKU\source\repos\firstoneee\firstoneee\bin\Debug\netcoreapp3.1\firstoneee.runtimeconfig.json
+C:\Users\BAKU\source\repos\firstoneee\firstoneee\bin\Debug\netcoreapp3.1\firstoneee.runtimeconfig.dev.json
+C:\Users\BAKU\source\repos\firstoneee\firstoneee\bin\Debug\netcoreapp3.1\firstoneee.dll
+C:\Users\BAKU\source\repos\firstoneee\firstoneee\bin\Debug\netcoreapp3.1\firstoneee.pdb
+C:\Users\BAKU\source\repos\firstoneee\firstoneee\obj\Debug\netcoreapp3.1\firstoneee.csproj.AssemblyReference.cache
+C:\Users\BAKU\source\repos\firstoneee\firstoneee\obj\Debug\netcoreapp3.1\firstoneee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAKU\source\repos\firstoneee\firstoneee\obj\Debug\netcoreapp3.1\firstoneee.AssemblyInfoInputs.cache
+C:\Users\BAKU\source\repos\firstoneee\firstoneee\obj\Debug\netcoreapp3.1\firstoneee.AssemblyInfo.cs
+C:\Users\BAKU\source\repos\firstoneee\firstoneee\obj\Debug\netcoreapp3.1\firstoneee.csproj.CoreCompileInputs.cache
+C:\Users\BAKU\source\repos\firstoneee\firstoneee\obj\Debug\netcoreapp3.1\firstoneee.dll
+C:\Users\BAKU\source\repos\firstoneee\firstoneee\obj\Debug\netcoreapp3.1\firstoneee.pdb
+C:\Users\BAKU\source\repos\firstoneee\firstoneee\obj\Debug\netcoreapp3.1\firstoneee.genruntimeconfig.cache
